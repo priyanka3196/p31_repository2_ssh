@@ -3,5 +3,8 @@
   </head>
   
   <!-- add body tag here -->
-  
+
+  <body>
+  </body>
+
 </html>
