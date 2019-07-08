@@ -1,5 +1,5 @@
 <html>
-<<<<<<< HEAD
+
 	<head>
 		<STYLE>
         		H1{color:blue,font_size:200%,font_style:Roman}     <!-- added into remote -->
