@@ -1,6 +1,11 @@
 <html>
+<<<<<<< HEAD
 	<head>
+		<STYLE>
+        		H1{color:blue,font_size:200%}     <!-- added into remote -->
+    		</STYLE>
 	</head>
+>>>>>>> 97b442796fb3840f3efb3626c39b7a9c91e6f607
   
   <!-- add body tag here -->
 
