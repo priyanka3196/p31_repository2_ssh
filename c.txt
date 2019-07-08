@@ -1,5 +1,8 @@
 <html>
   <head>
+    <STYLE>
+        H1{color:blue,font_size:200%}     <!-- added into remote -->
+    </STYLE>
   </head>
   
   <!-- add body tag here -->
